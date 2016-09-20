@@ -1,7 +1,7 @@
 #include <EditConstants.au3>
 #include <GUIConstantsEx.au3>
 #include <WindowsConstants.au3>
-#Region ### START Koda GUI section ### Form=C:\Users\mbarker\Downloads\OLD DOWNLOADS\koda_1.7.3.0\Forms\RemoteClipboard.kxf
+#Region ### 
 $RemoteClipboard = GUICreate("Remote Clipboard", 331, 298, 192, 124)
 GUISetBkColor(0xFFFFFF)
 $Edit1 = GUICtrlCreateEdit("", 8, 8, 313, 193)
@@ -62,7 +62,7 @@ Func terminate();[TERMINATE THE SCRIPT]
 	EndFunc#include <EditConstants.au3>
 #include <GUIConstantsEx.au3>
 #include <WindowsConstants.au3>
-#Region ### START Koda GUI section ### Form=C:\Users\mbarker\Downloads\OLD DOWNLOADS\koda_1.7.3.0\Forms\RemoteClipboard.kxf
+#Region ### START Koda GUI section ### 
 $RemoteClipboard = GUICreate("Remote Clipboard", 331, 298, 192, 124)
 GUISetBkColor(0xFFFFFF)
 $Edit1 = GUICtrlCreateEdit("", 8, 8, 313, 193)
